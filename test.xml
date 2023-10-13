@@ -1,0 +1,11 @@
+﻿<StackLayout>
+	<Frame BackgroundColor="Yellow" Padding="24" CornerRadius="0">
+		<Label Text="Welcome to Quiz" HorizontalOptions="Center" TextColor="Black" FontSize="36"/>
+	</Frame>
+	<Label x:Name="quizQuestionLabel" Text="Are you ready to start the quiz now?" FontSize="Title" Padding="30,10,30,10"/>
+	<RadioButton x:Name="optionA" Content="Option A" />
+	<RadioButton x:Name="optionB" Content="Option B" />
+	<RadioButton x:Name="optionC" Content="Option C" />
+	<RadioButton x:Name="optionD" Content="Option D" />
+	<Button Text="Start Quiz" Clicked="ButtonClick_Clicked"/>
+</StackLayout>

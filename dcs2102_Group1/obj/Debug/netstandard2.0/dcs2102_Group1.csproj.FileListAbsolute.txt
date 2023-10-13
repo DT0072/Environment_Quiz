@@ -1,0 +1,15 @@
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\bin\Debug\netstandard2.0\dcs2102_Group1.deps.json
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\bin\Debug\netstandard2.0\dcs2102_Group1.dll
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\bin\Debug\netstandard2.0\ref\dcs2102_Group1.dll
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\bin\Debug\netstandard2.0\dcs2102_Group1.pdb
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.csproj.AssemblyReference.cache
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.AssemblyInfoInputs.cache
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.AssemblyInfo.cs
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.csproj.CoreCompileInputs.cache
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.dll
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\refint\dcs2102_Group1.dll
+C:\Users\cheah\OneDrive\Desktop\DCS2102\Group Assignment\dcs2102_Group1\dcs2102_Group1\obj\Debug\netstandard2.0\dcs2102_Group1.pdb

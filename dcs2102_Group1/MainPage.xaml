@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SportsQuizApp"
+             x:Class="SportsQuizApp.MainPage">
+    <StackLayout>
+        <Label x:Name="questionLabel" FontSize="20" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <RadioButton x:Name="option1" Value="Option 1" HorizontalOptions="Center" />
+        <RadioButton x:Name="option2" Value="Option 2" HorizontalOptions="Center" />
+        <RadioButton x:Name="option3" Text="Option 3" HorizontalOptions="Center" />
+        <RadioButton x:Name="option4" Value="Option 4" HorizontalOptions="Center" />
+        <Button Text="Next" Clicked="NextButton_Clicked" HorizontalOptions="Center" VerticalOptions="EndAndExpand" />
+    </StackLayout>
+</ContentPage>

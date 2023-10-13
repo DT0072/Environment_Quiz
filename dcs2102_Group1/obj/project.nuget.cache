@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5+2xaLQFfhqwgw2Qcck9wCCGwdCMqL0z87uNkcMy2ExZF0xT4lfzg21Q28SpR5dl1v0moj+JOfJUgzBcPOG8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cheah\\OneDrive\\Desktop\\DCS2102\\Group Assignment\\Sports Quiz\\dcs2102_Group1\\dcs2102_Group1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cheah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cheah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cheah\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cheah\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cheah\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
